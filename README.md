@@ -4,7 +4,7 @@ In this Spam Email Classification Machine Learning and NLP Techniques are used.f
 
 For User-friendly web interface Streamlit was used
 <h2>How To Execute</h2>
-<p>Firstly Enter an email and classify it as either Spam or Not Spam.</p>
+<p>Firstly Enter an email to classify it as either Spam or Not Spam. and click Classify</p>
 <p>If the mail is Spam It displays as "This ia A Apam email" using red background color</p>
 <p>If the mail is not a spam ot dispaly as "This is Not A Spam Email" using green Background</p>
 
